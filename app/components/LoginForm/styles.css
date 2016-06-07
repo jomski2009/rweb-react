@@ -1,0 +1,21 @@
+.loginForm {
+  width:500px;
+  float:right;
+}
+
+.loginField {
+  padding: 5px;
+  margin: 5px;
+  border: 1px #CCC solid;
+  background-color: #fff;
+  color:#ccc;
+
+}
+
+.loginButton {
+  background-color: #009dd7;
+  color: #fff;
+  padding: 5px;
+  border: 1px solid #fff;
+
+}
